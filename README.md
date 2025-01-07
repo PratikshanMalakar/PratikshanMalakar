@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PratikshanMalakar
-- 👀 I’m interested in ...Java, SpringBoot, Python, AI, ML and other technologies.
-- 💞️ I’m looking to collaborate on ...SpringBoot and Python projects.
+- 👀 I’m interested in ...Java, SpringBoot, Ktor, Kotlin, Python, AI, ML and other technologies.
+- 💞️ I’m looking to collaborate on ...SpringBoot Ktor-kotlin and Python projects.
 - 📫 Reach me at my mail -- pmalakar883@gmail.com
 
 <!---
